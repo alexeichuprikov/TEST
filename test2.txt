@@ -3,4 +3,7 @@
 qwe
 321.
 "yuio" 
+<<<<<<< HEAD
 6767
+=======
+>>>>>>> refs/remotes/origin/master
