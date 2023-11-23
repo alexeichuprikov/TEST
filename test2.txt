@@ -7,3 +7,4 @@ qwe
 6767
 =======
 >>>>>>> refs/remotes/origin/master
+"new line" 
